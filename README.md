@@ -3,7 +3,8 @@
 <ul> 
     <li>👨‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas - UAM</li>
     <li>⌛ Programador em Desenvolvimento ⌛</li>
-    <li>⚡ Curiosidades: I Love, Skate, Gym, Futebol and Basket</li>
+    <li>⚡ I Love: Soccer,Pizza, Skate, Gym, Futebol, Basket and develop things
+</li>
 </ul>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santana-806517265/)
