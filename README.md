@@ -3,7 +3,7 @@
 <ul> 
     <li>👨‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas - UAM</li>
     <li>⌛ Programador em Desenvolvimento ⌛</li>
-    <li>⚡ I Love: Soccer,Pizza, Skate, Gym, Futebol, Basket and develop things
+    <li>⚡ I Love: Soccer ,Pizza ,Skate ,Gym ,Basket and develop things
 </li>
 </ul>
 
