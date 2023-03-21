@@ -1,7 +1,7 @@
 ### Olá ! Eu sou o Lucas Santana ✌️
 
 <ul> 
-    <li>👨‍🎓 Estudante de Ánalise e Desenvolvimento de Sistemas - UAM</li>
+    <li>👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - UAM</li>
     <li>⌛ Programador em Desenvolvimento ⌛</li>
     <li>⚡ I Love: Soccer ,Pizza ,Skate ,Gym ,Basket and develop things
 </li>
